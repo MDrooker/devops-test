@@ -3,7 +3,7 @@
 .*.sw*
 .idea
 *.log
-**/config/*.json
+config.json
 .next/
 .DS_Store
 *-old/
